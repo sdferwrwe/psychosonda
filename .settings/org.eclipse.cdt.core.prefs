@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.configuration.app.release.1357051489/PATH/delimiter=;
+environment/project/de.innot.avreclipse.configuration.app.release.1357051489/PATH/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.release.1357051489/PATH/value=C\:\\Program Files (x86)\\Atmel\\AVR Tools\\AVR Toolchain\\bin;C\:/Program Files/Java/jre1.8.0_92/bin/server;C\:/Program Files/Java/jre1.8.0_92/bin;C\:/Program Files/Java/jre1.8.0_92/lib/amd64;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Program Files (x86)\\GNU Tools ARM Embedded\\4.9 2015q2\\arm-none-eabi\\bin;C\:\\Ruby200\\bin;C\:\\Chocolatey\\bin;;C\:\\Program Files (x86)\\Microsoft VS Code\\bin;C\:\\Users\\Tomas\\Downloads\\eclipse-cpp-kepler-SR1-win32-x86_64\\eclipse;C\:\\Program Files (x86)\\Atmel\\AVR Tools\\AVR Toolchain\\avr\\bin;
+environment/project/de.innot.avreclipse.configuration.app.release.1357051489/append=true
+environment/project/de.innot.avreclipse.configuration.app.release.1357051489/appendContributed=true
